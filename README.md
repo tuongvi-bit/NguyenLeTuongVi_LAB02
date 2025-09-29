@@ -1,4 +1,3 @@
-# NguyenLeTuongVi_LAB02
 NHẬP MÔN CÔNG NGHỆ PHẦN MỀM
 
 Lab 02 – Phân tích yêu cầu & Thiết kế Use Case (Hotel Booking System)
@@ -86,6 +85,7 @@ o ERD
 o README.md mô tả dự án
 • Đồng bộ Jira ↔ GitHub (có thể dùng Smart Commit để gắn issue key vào commit).
 • Mỗi commit: #JIRA-123 Add: Booking use case diagram
+
 4.Artefacts đính kèm
 – Biểu đồ Use Case
 ![alt text](usecases.jpg)
