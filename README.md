@@ -86,3 +86,16 @@ o ERD
 o README.md mô tả dự án
 • Đồng bộ Jira ↔ GitHub (có thể dùng Smart Commit để gắn issue key vào commit).
 • Mỗi commit: #JIRA-123 Add: Booking use case diagram
+4.Artefacts đính kèm
+– Biểu đồ Use Case
+![alt text](usecases.jpg)
+– Biểu đồ Sequence
+a) Luồng Đặt phòng online
+![alt text](sequence_a.jpg)
+b) Luồng Check-in/Check-out (Lễ tân)
+![alt text](sequence_b.jpg)
+– Biểu đồ ERD
+![alt text](ERD.jpg)
+– Mô tả dự án
+✨ Thành viên thực hiện
+Nguyễn Lê Tường Vi
