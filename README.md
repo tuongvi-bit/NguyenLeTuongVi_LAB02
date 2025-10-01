@@ -90,14 +90,15 @@ Use case chính:
 
 ## 🔗 3. Jira ↔ GitHub đồng bộ
 - Smart Commit format:  
-HBS-7 Add: Use Case Diagram
-HBS-8 Add: Sequence Diagram
-HBS-9 Add: ERD
+HBS-18 Add: Use Case Diagram
+HBS-19 Add: Sequence Diagram
+HBS-20 Add: ERD
+HBS-21 Add: README.md
 - Khi commit kèm issue key (ví dụ: `HBS-7`), Jira sẽ tự động đồng bộ commit vào issue.
 
 ---
 
 ## 👩‍💻 4. Thông tin sinh viên
 - Họ và tên: **Nguyễn Lê Tường Vi**  
-- Môn học: Phân tích & Thiết kế Hệ thống  
+- Môn học: Nhập môn công nghệ phần mềm 
 - Lab: 02
